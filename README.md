@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Vue, Angular, HTML, JavaScript, Java, Python, C, C++.**
 
-- 📫 How to reach me **nisarldev.unhealthy583@aleeas.com**
+- 📫 How to reach me, with the email **nisarldev.unhealthy583@aleeas.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
