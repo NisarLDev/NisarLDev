@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisarldev" alt="nisarldev" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning with AI, Algorithms and Data Structures in Java, Python, Rust, C and C++.**
+- 🌱 I’m currently learning **Machine Learning with AI, Algorithms and Data Structures in Java, Python, Rust, C, C++ and Assembler.**
 
 - 💬 Ask me about **Vue, Angular, HTML, JavaScript, Java, Python, C, C++.**
 
